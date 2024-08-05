@@ -1,0 +1,23 @@
+# Log files
+*.log
+
+# Excel files
+*.xlsx
+
+# Typical system files
+.DS_Store
+Thumbs.db
+
+# Python bytecode files
+*.pyc
+__pycache__/
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+.env/
+
+# IDE specific files
+.vscode/
+.idea/
