@@ -79,3 +79,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [requests](https://requests.readthedocs.io/en/latest/)
 - [barcodenumber](https://pypi.org/project/barcodenumber/)
 
+## Future Plans
+
+- **Product Quantity Detection**: Add functionality to recognize the number of products found when searching for an EAN on the website and include this information in the output.
