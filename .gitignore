@@ -21,3 +21,6 @@ env/
 # IDE specific files
 .vscode/
 .idea/
+
+# Output File
+output_results.csv
