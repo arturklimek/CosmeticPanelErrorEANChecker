@@ -82,3 +82,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Future Plans
 
 - **Product Quantity Detection**: Add functionality to recognize the number of products found when searching for an EAN on the website and include this information in the output.
+- **Category Detection**: Implement functionality to detect the category of the found product (e.g., men's perfumes).
+- **Category Verification**: Verify if the found product belongs to a specified category, currently focusing on "facial care".
+- **Non-Numeric and Unknown Type Re-Verification**: Add re-verification for products where the code is non-numeric or the type is unknown.
+- **Enhanced Code Validation**: Implement more detailed checks and validation for a wider range of code types.
+- **Product Quantity Information**: Fetch and include information on the quantity of products found.
+- **Detailed Product Information**: Save the webpage link for all found products and open the page to fetch more detailed information about them.
